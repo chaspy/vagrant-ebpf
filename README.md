@@ -1,1 +1,7 @@
-# vagrant-ebpf
+# vagrant-eBPF
+
+## Usage
+
+```
+vagrant up
+```
